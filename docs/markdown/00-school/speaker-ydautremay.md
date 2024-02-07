@@ -2,7 +2,7 @@
 
 # Votre hôte pour la journée
 
-![speaker](./assets/images/yves.png)
+![speaker](./assets/images/yves.jpg)
 
 ![compagny](./assets/images/logo-sfeir.png)
 
