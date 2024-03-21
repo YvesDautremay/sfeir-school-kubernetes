@@ -8,7 +8,5 @@
 
 ![badge first-badge](./assets/images/certif-ckad.png)
 
-![badge second-badge](./assets/images/certif-gcloud-associate.jpg)
-
 <h2> Yves <span>Dautremay</span></h2>
 
